@@ -11,6 +11,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Launcher.vi" Type="VI" URL="../Launcher.vi"/>
+		<Item Name="Message Actor.lvlib" Type="Library" URL="../Message Actor/Message Actor.lvlib"/>
 		<Item Name="SubPanel Actor.lvlib" Type="Library" URL="../SubPanel Actor/SubPanel Actor.lvlib"/>
 		<Item Name="UI Actor.lvlib" Type="Library" URL="../UI Actor/UI Actor.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
